@@ -5,7 +5,7 @@
 # 平台功能简介
 #1.系统登陆
 用户输入对应网址进入登陆页面，如下图所示。点击上传证书文件，上传文件成功后则会显示密码输入框和登陆按钮。输入正确密码并点击登陆则会进入系统，否则会提示错误信息。
-![Image text](https://github.com/shshangxiang/18363992970/picture/login.jpg)
+![Image text](https://github.com/18363992970/enbc/picture/login.jpg)
 #2.主页面
 登陆后即会显示主界面，主界面如下图所示。其中包含节点信息、区块信息、交易信息。
 ![Image text](https://github.com/shshangxiang/enbc/picture/index.jpg)
