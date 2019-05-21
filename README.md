@@ -8,34 +8,34 @@
 ![Image url](https://github.com/18363992970/enbc/blob/master/picture/login.jpg)
 #2.主页面
 登陆后即会显示主界面，主界面如下图所示。其中包含节点信息、区块信息、交易信息。
-![Image text](https://github.com/shshangxiang/enbc/picture/index.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/index.jpg)
 #3.节点管理
 #3.1在线节点模块显示当前在线节点列表，并可查看节点信息，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/node.jpg)
-![Image text](https://github.com/shshangxiang/enbc/picture/nodeDetails.png)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/node.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/nodeDetails.png)
 #3.2节点维护中可以添加节点，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/addNode.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/addNode.jpg)
 #3.3核心账户管理中可查看核心账户相关信息，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/coreAccount.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/coreAccount.jpg)
 #3.4发起投票模块可为候选核心账户发起投票，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/startVote.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/startVote.jpg)
 #3.5参与投票模块可对核心账户候选人进行投票，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/vote.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/vote.jpg)
 #4账户管理
 #4.1账户信息模块显示了当前以创建的账户列表信息，同时在此模块可一进行一系列的账户操作，包括查看账户详细信息、添加新账户、账户证书文件下载、账户锁定、修改密码，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/account.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/account.jpg)
 #4.2账户密码模块可以查询普通账户的账户密码，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/password.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/password.jpg)
 #4.3账户验证模块可以验证账户的有效性，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/verification.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/verification.jpg)
 #5区块管理
 #5.1区块信息模块显示当前已打区块列表，并可查看区块详细信息，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/block.jpg)
-![Image text](https://github.com/shshangxiang/enbc/picture/blockDetails.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/block.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/blockDetails.jpg)
 #6.交易记录
 #6.1历史纪录模块显示当前已完成交易的历史纪录列表，并可查看交易上联数据等历史交易详细信息，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/history.jpg)
-![Image text](https://github.com/shshangxiang/enbc/picture/historyDetails.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/history.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/historyDetails.jpg)
 #6.2在线交易模块可以通过输入接收者地址、抄送地址，交易上联数据进行在线交易，如下图所示。
-![Image text](https://github.com/shshangxiang/enbc/picture/transaction.jpg)
+![Image text](https://github.com/shshangxiang/enbc/blob/master/picture/transaction.jpg)
 
