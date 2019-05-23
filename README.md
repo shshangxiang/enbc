@@ -2,6 +2,22 @@
 基于以太坊架构的区块链企业解决方案
 官网地址 http://blockchain.shanshoufu.com
 链赢金科联盟链 使用POA共识算法。
+
+#操作系统支持
+<table>
+<tr>
+<td>操作系统</td><td>基本能能 </td><td>区块链加密</td><td>客户端加密</td><td>文件上链</td><td>离线交易</td>
+</tr>
+<tr>
+<td>ubuntu16.4+  </td><td>支持 </td><td>支持</td><td>支持</td><td>文件上链</td><td>支持</td>
+</tr>
+<tr>
+<td>redhat7+/centos7+ </td><td>支持 </td><td>支持</td><td>不支持</td><td>不支持</td><td>不支持</td>
+</tr>
+<tr>
+<td>windows10+  </td><td>支持 </td><td>支持</td><td>不支持</td><td>不支持</td><td>不支持</td>
+</tr>
+</table>
 # 平台功能简介
 # 1.系统登陆
 用户输入对应网址进入登陆页面，如下图所示。点击上传证书文件，上传文件成功后则会显示密码输入框和登陆按钮。输入正确密码并点击登陆则会进入系统，否则会提示错误信息。
